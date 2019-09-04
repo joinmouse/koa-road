@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/joinmouse/koa-road#readme",
   "dependencies": {
-    "koa": "^2.8.1"
+    "koa": "^2.8.1",
+    "koa-route": "^3.2.0"
   }
 }
