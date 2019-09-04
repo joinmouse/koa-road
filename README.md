@@ -25,3 +25,7 @@
 
 ### 三、中间件(middleware)
 #### 01、 中间件: 处于http request和http response中间，来实现某种功能，这里主要以log为例子
+
+#### 02、 中间件栈，在koa中间件是通过next()来传递给下一级的
+
+#### 03、
