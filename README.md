@@ -21,3 +21,7 @@
 #### 03、使用koa-static来处理静态资源加载
 
 #### 04、使用ctx.response.redirect('/')来实现重定向
+
+
+### 三、中间件(middleware)
+#### 01、 中间件: 处于http request和http response中间，来实现某种功能，这里主要以log为例子
