@@ -1,0 +1,22 @@
+{
+  "name": "koa-road",
+  "version": "1.0.0",
+  "description": "koa road",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinmouse/koa-road.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinmouse/koa-road/issues"
+  },
+  "homepage": "https://github.com/joinmouse/koa-road#readme",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
