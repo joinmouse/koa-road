@@ -19,3 +19,5 @@
 #### 02、使用koa-route来实现简单的路由
 
 #### 03、使用koa-static来处理静态资源加载
+
+#### 04、使用ctx.response.redirect('/')来实现重定向
