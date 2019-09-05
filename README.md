@@ -38,4 +38,12 @@
 
 #### 02、ctx.response.status = 404 相当于 ctx.throw(404)
 
-#### 03、
+#### 03、error错误中间件处理
+
+#### 04、可以通过on.('error')来监听错误
+
+#### 05、try...catch捕获的错误需要通过ctx.app.emit('error', err, ctx)手动触发才可以被监听到
+
+
+### 五、webapp
+#### 使用ctx.cookies用来读写Cookies
