@@ -36,4 +36,4 @@
 ### 四、错误处理(handle error)
 #### 01、ctx.throw(500), 抛出500错误
 
-#### 02、
+#### 02、ctx.response.status = 404 相当于 ctx.throw(404)
