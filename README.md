@@ -37,3 +37,5 @@
 #### 01、ctx.throw(500), 抛出500错误
 
 #### 02、ctx.response.status = 404 相当于 ctx.throw(404)
+
+#### 03、
